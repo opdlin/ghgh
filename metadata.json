@@ -1,0 +1,6 @@
+{
+  "name": "Reliance Industries Limited — Corporate Portal",
+  "description": "Official-style corporate website for Reliance Industries Limited (RIL) spanning Energy, New Energy, Jio Digital Services, Reliance Retail, Media, Sustainability, and Investor Relations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
